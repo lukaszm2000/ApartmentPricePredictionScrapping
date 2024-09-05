@@ -1,4 +1,4 @@
-# Apartment Price Prediction using Scrapping
+# Apartment Price Prediction Using Scrapping
 
 **Overview**  
 This project scrapes housing offers from the Otodom (https://www.otodom.pl/) portal based on user input for location and price range. The scraped data is then cleaned and visualized using Streamlit.  
