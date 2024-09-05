@@ -10,6 +10,6 @@ with Otodom() as bot:
     bot.show_results()
     bot.get_and_save_all_links()
 
-    # bot.visit_all_links_and_save_parameters()
+    bot.visit_all_links_and_save_parameters()
     
     print('Exiting...')
