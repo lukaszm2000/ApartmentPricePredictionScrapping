@@ -21,4 +21,5 @@ Each model is evaluated based on its performance, and the best-performing model 
 -Deploying the Prediction Model: Integrate the model into a web application for real-time predictions.  
 
 **PowerBi Visualization:** 
-![image](https://github.com/user-attachments/assets/d8f1dbdf-ef91-4b12-a0bf-2bd86532e37f)
+![image](https://github.com/user-attachments/assets/f576b9a0-0fac-420e-a648-0ad89b07e0e5)
+
