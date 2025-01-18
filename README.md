@@ -20,3 +20,4 @@ Each model is evaluated based on its performance, and the best-performing model 
 -Expanding the Search Criteria: Allow users to specify additional criteria such as apartment size, etc.  
 -Deploying the Prediction Model: Integrate the model into a web application for real-time predictions.  
 
+![image](https://github.com/user-attachments/assets/d8f1dbdf-ef91-4b12-a0bf-2bd86532e37f)
